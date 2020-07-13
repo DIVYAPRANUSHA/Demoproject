@@ -1,0 +1,28 @@
+>>>>git init - To create a git file in Directory (Hidden File) 
+
+If command runs again, it will reinitailize the git. It will not create another git.
+
+.git - Storing the versions
+
+Stage 1 : UI : 1st Version
+Stage 2 : Backend (Login Code) : 2nd Version
+Stage 3 : Backend ( Logout Code) : 3rd Version
+
+>>>>git status - To check is it a . git present or not
+
+>>>>ls -a To check all files including hidden files
+
+Files are in Untracked Stage.
+
+We need to move them to staging area.
+
+Step 1 : Add all the files to staging area.
+
+>>>>git add filenames
+
+if there are 100 or 1000 files available in the directory
+
+>>>>git add . (Dot)
+
+
+Step 2 : Commit --> Message
